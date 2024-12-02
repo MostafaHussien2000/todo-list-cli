@@ -1,0 +1,15 @@
+{
+  "description": "",
+  "scripts": {
+    "start": "tsc && node ./dist/index.js"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^7.1.0",
+    "inquirer": "^12.1.0",
+    "lowdb": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/lowdb": "^1.0.15"
+  }
+}
